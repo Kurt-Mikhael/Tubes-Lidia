@@ -8,7 +8,7 @@ This project analyzes Bitcoin price data in relation to market sentiment using t
 
 ```
 Tubes-Lidia/
-├── File
+├── data
 │   ├── BTC_FearAndGreed.csv            # Fear and Greed index dataset
 │   ├── Bitcoin_History.csv             # Raw Bitcoin historical price dataset
 │   ├── Bitcoin_History_Updated.csv     # Cleaned and transformed Bitcoin price dataset
